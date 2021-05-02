@@ -1,5 +1,5 @@
 # Auto-Joiner
-Telegram auto channel/group member joiner
+Telegram auto channel/group bulk member joiner
 
 Contact with me to get the Password of Zip file on :
 
