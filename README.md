@@ -1,5 +1,7 @@
-# Auto-Joiner
+# Telegram-Channel-Auto-Member-Joiner
 Telegram auto channel/group bulk member joiner
+
+Purchase it on my website : https://erfan4lx.com/product/telegram-auto-channel-joiner
 
 Contact with me to get the Password of Zip file on :
 
@@ -16,6 +18,8 @@ Show demo video on Instagram : https://www.instagram.com/p/COdp_pZFndT
 🆔My Telegram Channel : https://t.me/Erfan4lxTeam1
 
 🆔My Instagram Page : https://www.instagram.com/_erfan4lx_/
+
+ MY OFFICIAL WEBSITE : https://erfan4lx.com
 
 <p align="center">
   Follow Me On
